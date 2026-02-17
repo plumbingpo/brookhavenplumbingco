@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brookhavenplumbingco.com/sitemap.xml
